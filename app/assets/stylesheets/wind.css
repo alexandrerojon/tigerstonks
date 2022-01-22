@@ -487,3 +487,7 @@ Ensure the default browser behavior of the `hidden` attribute.
 .inline {
   display: inline;
 }
+
+.uppercase {
+  text-transform: uppercase;
+}
